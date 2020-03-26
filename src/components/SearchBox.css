@@ -1,0 +1,7 @@
+div input {
+  border-radius: 50px;
+}
+
+div input:focus {
+  outline: none;
+}
